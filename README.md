@@ -18,12 +18,12 @@
 
 ## Docker Image
 ```
-$ docker build . -t starter-angular-hydrogen
+$ docker build . -t starter-angular-helium
 ```
 
 ## Docker Container
 ```
-docker run  -p 4200:4200 starter-angular-hydrogen
+docker run  -p 4200:4200 starter-angular-helium
 ```
 
 ## Webpage URLs
