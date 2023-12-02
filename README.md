@@ -4,7 +4,7 @@
 
 # Starter   
 
-<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium%20/starter.png" alt="Girl in a jacket" width="100" height="400">
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium%20/starter.png" alt="Girl in a jacket" width="200" height="200">
 
 
 # Docker 
