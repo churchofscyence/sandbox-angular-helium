@@ -4,8 +4,15 @@
 
 # Starter   
 
-<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/starter.png" alt="Girl in a jacket" width="300" height="200">
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/starter.png" alt="Starter Screen Shot" width="300" height="200">
 
+# Main
+
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/main.png" alt="Imput Screen Shot" width="300" height="200">
+
+# Main
+
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/main.png" alt="Imput Screen Shot" width="300" height="200">
 
 # Docker 
 
