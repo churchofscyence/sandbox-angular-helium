@@ -7,6 +7,8 @@ import { Component, Input } from '@angular/core';
 })
 export class CounterComponent {
 
+  title:string = "counter.component.ts"
+
   @Input()
   count: number = 0;
 

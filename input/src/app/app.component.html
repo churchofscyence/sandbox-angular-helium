@@ -1,15 +1,9 @@
-<span> <b> {{ title }} </b> app is running!</span>
+<div class="work-area work-area-outer">
+  <span>{{ title }} (Parent Component)</span>
 
-<br><br>
-<br><br>
+  <p> &#8595; initial_value = {{initial_value}}</p>
 
-
-<div class="work-area">
-  <span>{{ title }} (Parent Component) app is running!</span>
-
-  <p> &#8595; initial_value </p>
-
-  <p>[count]="initial_value"</p>
+  <p>{{tag}}</p>
 
   <div class="app">
     <app-counter  [count]="initial_value" ></app-counter>
