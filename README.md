@@ -4,11 +4,11 @@
 
 # Main
 
-<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/main.png" alt="Imput Screen Shot" width="300" height="250">
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/main.png" alt="Main Screen Shot" width="300" height="280">
 
 # Input
 
-<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/input.png" alt="Imput Screen Shot" width="300" height="250">
+<img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/input.png" alt="Input Screen Shot" width="300" height="280">
 
 # Starter   
 
