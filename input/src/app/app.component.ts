@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Sandbox Angular Hydrogen';
+  title = 'app.component.js';
+  tag = '<app-counter  [count]="initial_value" ></app-counter>';
 
   initial_value: number = 10;
 
