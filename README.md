@@ -2,15 +2,17 @@
 
 <img src="https://github.com/churchofscyence/resources/blob/main/banners/banner-thomas-edison.png" alt="Thomas Edison">
 
-# Main
+# Shot Screens
+
+## Main
 
 <img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/main.png" alt="Main Screen Shot" width="300" height="280">
 
-# Input
+## Input
 
 <img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/input.png" alt="Input Screen Shot" width="300" height="280">
 
-# Starter   
+## Starter   
 
 <img src="https://github.com/churchofscyence/resources/blob/main/images/sandbox-angular-helium/starter.png" alt="Starter Screen Shot" width="300" height="200">
 

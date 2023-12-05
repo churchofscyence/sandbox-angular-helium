@@ -1,0 +1,16 @@
+<div class="work-area work-area-inner" >
+
+  <span>{{ title }} (Child Component)</span>
+
+  <p>&#x2191; count (@output) - change (Emitter) </p>
+
+    <div class="counter">
+      <span>Current Counter : {{count}}</span>
+      <div class="controls">
+        <button type="button" class="btn btn-info" (click)="incrementCounter()">Increase + </button>
+        <span>&nbsp;&nbsp; &nbsp;</span>
+        <button type="button" class="btn btn-info" (click)="decrementCounter()">Decrease - </button>
+      </div>
+    </div>
+
+</div>
