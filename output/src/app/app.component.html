@@ -1,1 +1,10 @@
-<span> <b> {{ title }} </b> app is running!</span>
+<div class="work-area work-area-outer">
+  <span>{{ title }} (Parent Component)</span>
+
+  <p>{{html_tag}}</p>
+
+    <p>&#x2191; finial_value = {{finial_value}}</p>
+
+    <app-counter (change)="countChange($event)"></app-counter>
+
+</div>
